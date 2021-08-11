@@ -26,5 +26,39 @@ Mocca.id adalah personal projek E-commerce untuk  menjual produk jam buatan tang
 - Login dan Registrasi Akun
 
 ## Screenshot Halaman Customer
+<br>
+<p align="center"><a href="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Mocca-id.png" target="_blank"><img src="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Mocca-id.png" width="400" ></a></p>
+
+<p align="center">
+<span>Halaman Beranda</span>
+</p>
+
+<br>
+
+<p align="center"><a href="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Keranjang-Belanja.png" target="_blank"><img src="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Keranjang-Belanja.png" width="400" ></a></p>
+
+<p align="center">
+<span>Halaman Keranjang</span>
+</p>
+
+<br>
+
+## Screenshot Halaman Admin
+<br>
+<p align="center"><a href="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Dashboard.png" target="_blank"><img src="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Dashboard.png" width="400" ></a></p>
+
+<p align="center">
+<span>Halaman Dashboard</span>
+</p>
+
+<br>
+
+<p align="center"><a href="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Produk.png" target="_blank"><img src="https://raw.githubusercontent.com/dilarangoding/test-repo/main/img/Produk.png" width="400" ></a></p>
+
+<p align="center">
+<span>Halaman Produk</span>
+</p>
+
+<br>
 
 
